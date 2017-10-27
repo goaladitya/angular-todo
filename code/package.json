@@ -1,0 +1,15 @@
+{
+  "name": "angular1_todo",
+  "version": "1.0.0",
+  "description": "todo list",
+  "main": "interface.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aditya goyal",
+  "license": "ISC",
+  "dependencies": {
+    "tsconfig": "^7.0.0",
+    "typescript": "^2.5.3"
+  }
+}
